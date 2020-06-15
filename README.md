@@ -1,4 +1,4 @@
-# PROJECT 5: DATA Pipelines
+# DATA Pipelines
 
 ## Overview
 
